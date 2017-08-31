@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dominic Leung</title>
+    <link>http://fatdom.com/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 19 Aug 2017 08:30:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>First Roll of 120 Cinestill 800T</title>
+      <link>http://fatdom.com/2017/03/13/First-Roll-of-120-Cinestill-800T/</link>
+      <guid>http://fatdom.com/2017/03/13/First-Roll-of-120-Cinestill-800T/</guid>
+      <pubDate>Mon, 13 Mar 2017 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;It has been about a year since &lt;a href=&quot;https://cinestillfilm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cinestill Film&lt;/a&gt; successfully funded
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>It has been about a year since <a href="https://cinestillfilm.com/" target="_blank" rel="external">Cinestill Film</a> successfully funded its 120 and 4x5 Cinestill 800T campaign on Indiegogo. Recently I received my pack (Finally!), in the past weekend I went Aberdeen Reservoir for a hike trip.</p>
+<p><img src="First-Cinestill-02.jpg" alt=""></p>
+<p>Although the films are still in the “alpha run”, the results are quite pleasing, with tons of details and the tone that I really like. It was a very foggy and dull day, and the colour turned out better than I expected!</p>
+<p>All photos are taken with Fujica GW690II, with slight exposure and contrast adjustments. The light leak in the last shot was due to my forgetful mind; I didn’t lock the film in place after loading the film… :(</p>
+<p><img src="First-Cinestill-03.jpg" alt=""></p>
+<p><img src="First-Cinestill-04.jpg" alt=""></p>
+<p><img src="First-Cinestill-05.jpg" alt="light leak because of my incompetence"></p>
+<p>Next, I will probably shoot some sunlight and indoor shots. I still have 2 rolls of 120 and a box of 4x5 Cinestill 800T, that probably takes me a year or two to finish them all. I hope 120 format will be available to public soon! I want to shoot more!</p>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2017/03/13/First-Roll-of-120-Cinestill-800T/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>年廿六觀音開庫</title>
+      <link>http://fatdom.com/2017/02/17/Gwun-Yam-Offering/</link>
+      <guid>http://fatdom.com/2017/02/17/Gwun-Yam-Offering/</guid>
+      <pubDate>Fri, 17 Feb 2017 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;每年農曆正月廿六，是觀音開庫的日子，在香港不同地區供奉觀音的廟宇也會舉辦觀音借庫，大部分也是在年廿五夜晚十一點開始，這一晚各廟宇都大排長龍。不論是打工仔或老闆的信眾，他們相信觀音借庫可以旺財，打開未來一年的「水路」。&lt;/p&gt;
+&lt;p&gt;去年的年廿五晚上，我在屋企附近的大埔舊墟天
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>每年農曆正月廿六，是觀音開庫的日子，在香港不同地區供奉觀音的廟宇也會舉辦觀音借庫，大部分也是在年廿五夜晚十一點開始，這一晚各廟宇都大排長龍。不論是打工仔或老闆的信眾，他們相信觀音借庫可以旺財，打開未來一年的「水路」。</p>
+<p>去年的年廿五晚上，我在屋企附近的大埔舊墟天后宮拍攝了觀音開庫的情況。天后宮的背面是一間吃 Fish &amp; Chips 的酒吧，相映成趣。</p>
+<p><img src="Gwun-Yam-01.jpg" alt=""></p>
+<p>在天后宮旁的水月宮，是供奉觀音的地方，大量信眾過十一點後便開始進入水月宮。年頭借過庫後，無論你財運亨通與否，記得年尾要回到廟宇還庫！</p>
+<p>今年年廿六是下星期三2月22日，大部份廟宇也會在早一晚21日的十一點開庫，如果不想排隊迫人，可以在22日白天到廟宇。</p>
+<p><img src="Gwun-Yam-02.jpg" alt=""></p>
+<p><img src="Gwun-Yam-05.jpg" alt=""></p>
+<p>至於那裏那一個廟宇可以借庫，借庫流程等等，可以參考 <a href="http://timable.com/en/event/1383736" target="_blank" rel="external">Timable 的整理</a>。最後祝各位鷄年財運滾滾來！</p>
+<p><img src="Gwun-Yam-04.jpg" alt=""></p>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2017/02/17/Gwun-Yam-Offering/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>First try with Leaflet.js</title>
+      <link>http://fatdom.com/2017/01/24/First-try-with-Leaflet-js/</link>
+      <guid>http://fatdom.com/2017/01/24/First-try-with-Leaflet-js/</guid>
+      <pubDate>Tue, 24 Jan 2017 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;I was not very busy at work yesterday, so I decided to start getting familiar with Leaflet.js. I have always wanted to do something with 
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>I was not very busy at work yesterday, so I decided to start getting familiar with Leaflet.js. I have always wanted to do something with maps, particularly for Hong Kong. As my first experience with Leaflet, I think I would make a <a href="https://fatdom.github.io/Tai-Po-Population" target="_blank" rel="external">simple map showing population in different neighbourhoods in Tai Po district</a>, where I live in.</p>
+<p>There are apparently many map tiles available for Leaflet, I found <a href="http://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank" rel="external">Leaflet-Providers</a> which is amazing, I was thinking between OpenStreetMaps BlackAndWhite and Stamen TonerLite, and finally settled with the former.</p>
+<p>Upon initializing the map object, it needs a centre point. I found it a lot easier to add a onClick handler to log the latitude and longitude, than to look it up in Google Maps.</p>
+<script src="//gist.github.com/6552717c07d943b69e0e9450a435ffbb.js?file=Leaflet-Find-Coordinate.js"></script>
+<p>The next thing I need is the <a href="http://geojson.org/" target="_blank" rel="external">GeoJSON</a> of Hong Kong’s 431 neighbourhoods. It turns out <a href="someone has already done it">someone has already done it</a>, 2blam, you have my deepest respect and appreciation! For the current project, I only need the definition for neighbourhoods under Tai Po District and add the number of population as an additional property of each neighbourhood. Figures are based on <a href="http://www.census2011.gov.hk/en/district-profiles/tai-po.html" target="_blank" rel="external">2011 Population Census</a>.</p>
+<p>The rest of it is just following the <a href="http://leafletjs.com/examples/choropleth/" target="_blank" rel="external">example</a> provided by Leaflet, I just tweaked the styles a bit…</p>
+<p>I would like to think this code and the GeoJSON (Thank you!) will serve as a basis. Showing data geographically, and specifically for Hong Kong is something I have always wanted to do.</p>
+<p>It took me a couple of hours to maneuver around the example, the code and the GeoJSON, you can check it out on <a href="https://github.com/fatdom/Tai-Po-Population" target="_blank" rel="external">my GitHub</a>.</p>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2017/01/24/First-try-with-Leaflet-js/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>翻譯：西川美和訪談－關於新作《漫長的藉口》</title>
+      <link>http://fatdom.com/2016/12/06/Translation-Nishikawa-Interview/</link>
+      <guid>http://fatdom.com/2016/12/06/Translation-Nishikawa-Interview/</guid>
+      <pubDate>Tue, 06 Dec 2016 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;本文在2015年3月4日原載於 &lt;a href=&quot;http://bookshorts.jp/nishikawamiwa/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://bookshorts.jp/nishikawamiwa/&lt;/a&gt;， 其版權
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>本文在2015年3月4日原載於 <a href="http://bookshorts.jp/nishikawamiwa/" target="_blank" rel="external">http://bookshorts.jp/nishikawamiwa/</a>， 其版權屬於BOOKSHORTS所有，本人將原文翻譯成為中文，只作分享用途。</p>
+<hr>
+<p><strong>西川美和</strong></p>
+<p>於1974在廣島縣出生。在2002年發表首部個人創作作品《蛇野莓》，自己編寫劇本及擔任導演，獲得第58屆每日電影獎的劇本獎。2006年發表的《吊橋上的秘密》，獲得日本多款電影獎，其中包括藍絲帶獎導演獎。2009公開第三部長編電影《親愛的醫生》獲獎無數，再次獲得藍絲帶獎導演獎及藝術選獎新人獎，同年獲得電影雜誌《電影旬報》評選為最佳十大電影的第一位。2012年發表《賣夢的兩人》。她創作的小說包括《吊橋上的秘密》、《昨天的神》、《那一天東京站五點二十分出發》等等。</p>
+<p><strong>《漫長的藉口》西川美和 （文藝春秋 2015年2月25日）</strong></p>
+<p>「在應該相親相愛的日子把對方怠慢了，代價一點都不小。」一場交通意外，人氣作家津村啓突然失去了結婚多年的妻子－夏子。只能表面上裝作悲傷的津村，遇上了在意外失去了媽媽的一個家庭，他才開始面對自己與夏子之間的關係…</p>
+<p>突然失去家族的人，怎樣面對和回復自己的人生？這是一個描述幸福卻不穩定的人際關係的故事。</p>
+<hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>為甚麼會有《漫長的藉口》這一個故事？靈感來自哪裏？</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>2011年東日本震災後差不多半年，有很多關於受災者的報道，我看到受災者在震災中失去家人或朋友的樣子。當然，我替他們感到難過，但同時我亦覺得這些報道故事當中也能表達美麗的一面。在災難之中的人際關係也是這樣，有美麗的一面的同時，自然也會有不幸的一面。這些受災者經歷過生離死別，沒有人和他們分擔，無意之間便埋在深處。我有這些想法，可能是因為自己也曾多次很冷淡地跟親近的人離別吧，所以今次我這個故事中主角的離別也是這樣，並不是大情大性把悲傷描繪出來。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>故事中的主角衣笠幸夫（筆名津村啓）日漸疏遠的妻子，在交通意外中突然過身，他連一滴眼淚也沒有流過。相反，同是在意外中失去妻子的大宮陽一非常歇斯底里，把悲傷和憤怒的情緒直接表達出來。這並不代表幸夫是壞人，反而他自戀、寡情的一面，令我覺得他更需要愛。</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>幸夫是一個內向的人，時常會在意自己不可以做些甚麼。我自己也有這樣的一面，會對其他人的這一面很敏感。縱使大家也很擅長隱藏或控制它，有些時候總會發現自己的這一面而感到狼狽或迷茫。我覺得這也是人性的表現，這次的作品我也想寫關於擁有這些人性醜陋一面的人。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>在小說家賺錢困難的時代裏，幸夫要靠妻子維持生活，令幸夫內向的一面扭曲了，令夫婦關係變得更複雜。</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>當人表達善意或感謝時，很多時候也會被扭曲，不是只有惡意會令人際關係惡化，善意的行動也會令關係惡化，令人生變得困難。即使夫婦家庭之間相親相愛，關係也會惡化，人會因此感到煩惱、愚蠢，甚至孤獨。我想很清楚地寫出這種人生悲哀的一面。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>關於書名《漫長的藉口》，到底是怎麼樣的藉口呢？我想到幾個答案:「對死去的妻子說的藉口」、「過去沒有愛妻子的藉口」、「妻子死後對於自己仍然不覺得悲傷的藉口」、「自己仍然活著的藉口」。在《賣夢的兩人 西川美和的世界》中提及過你不擅長為作品決定名稱，那今次你是怎樣決定書名的？</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>剛剛聽到你的見解，我才發現原來也有那麼多的意思啊！我真的很不擅長提作品名，都不能在開始寫作故事前決定作品名稱。</td>
+</tr>
+<tr>
+<td></td>
+<td>這次當我寫完第一、第二章後，到寫第三章的途中想作品名稱的時候，突然想起第一章中有寫過「很長的藉口」，我直覺告訴我這就是作品的名稱吧！由於故事的幸夫為了一直活下去，需要不斷地製造不同的藉口，所以我把「很長的藉口」改為「漫長的藉口」。（按：由「長い」改成「永い」）因為我是這樣決定作品名稱，所以讀者也應該會對作品名有有不同解釋吧！</td>
+</tr>
+<tr>
+<td></td>
+<td>然後，「漫長的藉口」這個詞語本身也非常愚蠢啊！主角的幸夫也是一個非常愚蠢的人，用這樣的詞語來作名，大家也很容易明白吧。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>既愚蠢又自我中心的幸夫，在故事結尾認為「人生是別人的東西」，令我留下深刻印象。</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>在寫這個故事途中，突然想到「人生是別人的東西」這句句子，後來覺得很有意思，所以便將它寫成這個故事的中心思想。完成作品後，在一次會議中，有人說「對於年輕人來說，『人生是自己的。』但是隨著年月慢慢過去，會發現『人生是別人的。』」這番說話真是入木三分，我發現這個故事就是描述這個想法的變遷。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>這是一個兩夫婦的事，單身的我看過之後想起了我的父母呢。</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>讀者是否已婚或者有沒有孩子，大家狀況也不同。不過聽到有人說讀過作品後，會反思自己與別人的關係，我覺得很開心呢！</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>《浪長的藉口》書中也有一些章節改變了故事的視點。透過「幸夫的編輯情人」和「拍攝幸夫相片的助理導演」的獨白，增加了故事的層次感，變得更加吸引。有沒有特別的原因要這樣做？</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>事前並沒有計劃要轉換視點。初初是由第一人稱「我」開始寫作，由於我並未有寫過這麼長的故事，所以單靠「我」這個角色視點來看，怎樣寫篇幅也不足夠。然後我再換作第三人稱，再把衣笠幸夫這個「我」看不見的東西描繪出來。但我仍然沒自信覺得足夠，今次再換作幸夫妻子的視點繼續寫下去，我覺得電影比較難做到視點的切換，進入其他人的內心世界，而小說也可以做到，我一邊寫一邊摸索如何在不同角色之間的視點跳躍。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>其他配角，例如「いかりくん」、「驗屍的警察官」、「露出屁股的貨車司機」、「律師」，大家都很有魅力呢！</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>在小說中就算配角如何放大，故事也不會脫離軌道，可以任我控制。電影便做不到這一點，為求令觀眾容易觀賞，需要把登場角色減到最小。比較起來，小說有這樣的自由度真好。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>繼續談關於電影和小說的分別，我們 BOOKSHORTS 現在公開招募短編小說，並且會將得獎作品編成電台節目或短片。西川你以前在訪問中講過「電影是正室，小說是情人。」可否詳細說一下？</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>現在我也是這樣想呢。電影導演始終有一種「家庭」的責任，在家庭中要付出最多最大的努力。雖然很大壓力，但如果不努力便稱不上導演了。而小說相對輕鬆，好像在享受談戀愛一樣。不過我也差不多寫了十年小說，跟小說也不只是純粹享受快樂的關係。說到底，感受過電影的種種限制，才會充滿感受小說的自由、快樂和孤獨。現在我不會只選擇其中一樣呢。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>這次 BOOKSHORTS 招募的短編小說主題是掌故、民俗、小說等的二次創作作品。西川你曾經為夏目漱石《夢十夜》太宰治的《越級申訴》的改編作品執導呢。</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>很開心可以改編作品，兩篇原作都很精彩。自己創作故事時會盡力寫到最好，但始終不知道其他人覺得如何，會感到不安。如果是改編別人的作品，會感到很安心和幸福。我自高中生開始便很喜歡太宰治的《越級申訴》，能夠改編實在很高興，再次感到原作原來這樣精彩，輕鬆得像坐在大船上一樣。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>改編這兩個作品時感覺如何？</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>「越級申訴」是朗讀劇，雖然可以把原文減短，但是不可以改變原文的內容。而「夢十夜」是劇集，是由選角和劇本為基礎的。如果問我較喜歡那一種，應該是「越級申訴」吧，因為可以將優美的原文呈現。雖然「夢十夜」的原文也很精彩，但係要把漱石的文章具體轉化成映像，是非常困難的。至於「越級申訴」可以呈現本來的朗讀文體，映像就算多麼混亂，都會很有趣呢！</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>未來有甚麼想寫或者想拍的作品嗎？</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>雖然稱不上想映像化，但最後重讀太宰治的《御伽草子》，裏面的浦島太郎很有趣呢！把掌故改編，插入現代的想法和時代性應該會很有趣，現代人改編的故事也會很好。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>最後，請對立志成為小說家（向 BOOKSHORTS 投稿）的讀者說幾句話。</td>
+</tr>
+<tr>
+<td>西：</td>
+<td>只要覺得想寫作，已經是很值得。然後最重要的是一定要寫到最後。雖然大家都可能想過要寫作，但重點是寫到最後，著地的一刻。中途碰壁或不夠自信而放棄寫作，一定不能成為作家。碰壁時更加要繼續向前推進，我自己也是每天在碰壁，每一天也是不順利的繼續向前。所以我想大家想寫作之餘，要努力堅持到著地，這也是我唯一的建議吧。</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>問：</td>
+<td>多謝接受訪問！</td>
+</tr>
+</tbody>
+</table>
+<p>日文原文：5012字<br>中文翻譯：2679字</p>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2016/12/06/Translation-Nishikawa-Interview/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>衙前圍村最後的日子</title>
+      <link>http://fatdom.com/2016/10/30/The-last-days-of-Nga-Tsin-Wai/</link>
+      <guid>http://fatdom.com/2016/10/30/The-last-days-of-Nga-Tsin-Wai/</guid>
+      <pubDate>Sun, 30 Oct 2016 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;&lt;img src=&quot;Nga-Tsin-Wai-07.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&quot;Nga-Tsin-Wai-02.jpg&quot; alt=&quot;&quot;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&quot;Nga-Tsin-Wa
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p><img src="Nga-Tsin-Wai-07.jpg" alt=""></p>
+<table>
+<thead>
+<tr>
+<th><img src="Nga-Tsin-Wai-02.jpg" alt=""></th>
+<th><img src="Nga-Tsin-Wai-05.jpg" alt=""></th>
+<th><img src="Nga-Tsin-Wai-06.jpg" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img src="Nga-Tsin-Wai-08.jpg" alt=""></p>
+<table>
+<thead>
+<tr>
+<th><img src="Nga-Tsin-Wai-03.jpg" alt=""></th>
+<th><img src="Nga-Tsin-Wai-04.jpg" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img src="Nga-Tsin-Wai-15.jpg" alt=""></p>
+<table>
+<thead>
+<tr>
+<th><img src="Nga-Tsin-Wai-09.jpg" alt=""></th>
+<th><img src="Nga-Tsin-Wai-10.jpg" alt=""></th>
+<th><img src="Nga-Tsin-Wai-11.jpg" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img src="Nga-Tsin-Wai-12.jpg" alt=""></p>
+<table>
+<thead>
+<tr>
+<th><img src="Nga-Tsin-Wai-13.jpg" alt=""></th>
+<th><img src="Nga-Tsin-Wai-14.jpg" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2016/10/30/The-last-days-of-Nga-Tsin-Wai/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>隔夜</title>
+      <link>http://fatdom.com/2016/09/02/Overnight/</link>
+      <guid>http://fatdom.com/2016/09/02/Overnight/</guid>
+      <pubDate>Fri, 02 Sep 2016 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;昨晚在睡房裏，看著第14回的Critical Role，稱為「Vox Machina」的英雄們在幽暗地域裏的城市 Yug’Voril 擊敗被「魔鬼之號角」控制著的K’Varn之後，憑著龍裔魔法師Tiberius的瞬間轉移，成功逃脫回到他們的城市Emon。&lt;/p&gt;
+&lt;p&gt;當我
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>昨晚在睡房裏，看著第14回的Critical Role，稱為「Vox Machina」的英雄們在幽暗地域裏的城市 Yug’Voril 擊敗被「魔鬼之號角」控制著的K’Varn之後，憑著龍裔魔法師Tiberius的瞬間轉移，成功逃脫回到他們的城市Emon。</p>
+<p>當我在想香港還有沒有人玩Dungeons &amp; Dragons的時候，一陣陣的果香味傳到我鼻子裏。</p>
+<hr>
+<p>前一晚在便利店發現新的罐裝飲品，是果汁龍舌蘭酒。結帳時便利店店員問我：「呢個好唔好飲咖？」</p>
+<p>「唔知喎，我都未飲過，所以想試吓。」</p>
+<p>嘟。</p>
+<hr>
+<p>我在床上坐起來，想也不想的，一口完成前晚喝剩的一點。</p>
+<hr>
+<p>今天回到公司，拿著杯子去茶水間，發現杯子裏還剩下昨天未飲完的水。我把鼻子靠近水杯聞一聞，將水倒進洗碗盤裏，然後裝了全新的水。</p>
+<p>回座位時經過打印機，人事部的同事好像被我嚇壞了，把鎖匙掉到地上。</p>
+<p>鏘鏘。</p>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2016/09/02/Overnight/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>First two weeks without mobile phone</title>
+      <link>http://fatdom.com/2016/07/20/First-two-weeks-without-mobile-phone/</link>
+      <guid>http://fatdom.com/2016/07/20/First-two-weeks-without-mobile-phone/</guid>
+      <pubDate>Wed, 20 Jul 2016 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Two weeks ago, I dropped my mobile phone in a bowl of hot tasty noodle soup.&lt;/p&gt;
+&lt;p&gt;It’s dead.&lt;/p&gt;
+&lt;p&gt;As much as it seems to be the end o
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Two weeks ago, I dropped my mobile phone in a bowl of hot tasty noodle soup.</p>
+<p>It’s dead.</p>
+<p>As much as it seems to be the end of the world, I wonder how things would change around me without mobile phone, which many of us take it for granted.</p>
+<p>On Day 1, it feels like I have lost an integral part of myself, but I quickly realize the fact that I can talk with friends on Facebook at home and work. I eliminated hours after hours of trash I would have been messing about on my phone.</p>
+<p>As long as I get to Day 3, I feel liberated.</p>
+<p>The inconvenience really kicked in when it comes to hanging out with friends. I would need to tell them where and when to meet in advance; it just feels like middle school all over again. I enjoyed it.</p>
+<p>In the second week, my friend told me I could use Telegram without phone, honestly though, I can’t be bothered.</p>
+<p>I am easily distracted and have no discipline, I can see myself being sucked into the Metaverse again once I get a new phone. That’s exactly why I am not getting a new phone and I can definitely get on with it.</p>
+<p>Let’s see how long it will last.</p>
+<p><em>Edit in 2017: I managed to get through two months or so, before I was sucked in by a new phone again. I consider it a success.</em></p>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2016/07/20/First-two-weeks-without-mobile-phone/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>青衣真君誕尋寶</title>
+      <link>http://fatdom.com/2016/04/15/Tsing-Yi-Night-Market/</link>
+      <guid>http://fatdom.com/2016/04/15/Tsing-Yi-Night-Market/</guid>
+      <pubDate>Fri, 15 Apr 2016 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;h5 id=&quot;一年一度的期間限定本地小食&quot;&gt;&lt;a href=&quot;#一年一度的期間限定本地小食&quot; class=&quot;headerlink&quot; title=&quot;一年一度的期間限定本地小食&quot;&gt;&lt;/a&gt;一年一度的期間限定本地小食&lt;/h5&gt;&lt;p&gt;每年的農曆三月十二至十六是青衣的真君誕，除了有一連串
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h5 id="一年一度的期間限定本地小食"><a href="#一年一度的期間限定本地小食" class="headerlink" title="一年一度的期間限定本地小食"></a>一年一度的期間限定本地小食</h5><p>每年的農曆三月十二至十六是青衣的真君誕，除了有一連串的慶祝活動和大戲上演外，大家更加關注的是期間限定的熟食市場！我最近幾年都有去尋寶，適逢下星期一至五就是今年的誕期，向大家介紹幾個本地小食。</p>
+<p><img src="Tsing-Yi-Night-Market-02.jpg" alt=""></p>
+<h5 id="梨木樹狗仔粉"><a href="#梨木樹狗仔粉" class="headerlink" title="梨木樹狗仔粉"></a>梨木樹狗仔粉</h5><p>據說香港一間狗仔粉食店的老闆，懷念以前在梨木樹吃狗仔粉的味道，自己研發開店，現在賣到成行成市，還得到車軩人推介。梨木樹狗仔粉現在去了那裏？在青衣真君誕你可以找得到。</p>
+<p>這裏有兩三檔賣狗仔粉，但只有這一檔在現場製作狗仔粉，事頭婆在檔攤深處，利用手攪意粉機，製作出一條條的狗仔粉。她說狗仔粉的材料很簡單，只有麵粉、蛋和水，搓成麵團後壓平，然後慢慢將麵粉團重覆地壓成薄片。</p>
+<p><img src="Tsing-Yi-Night-Market-02.jpg" alt=""></p>
+<p>壓成厚薄適中的麵團後，經過電動切麵機後便成為一條條的長麵條，最後用較剪剪成較短的狗仔粉，放在湯中烚熟。</p>
+<p><img src="Tsing-Yi-Night-Market-04.jpg" alt=""></p>
+<p><img src="Tsing-Yi-Night-Market-05.jpg" alt=""></p>
+<p>事頭婆的女兒們跟我說，湯頭用了豬骨、冬菇、蝦米煲成，再加上火腿和豬油渣，最後還可以選擇加辣或甜的菜脯！</p>
+<p><img src="Tsing-Yi-Night-Market-06.jpg" alt=""></p>
+<p>經過繁複的步驟，煮成一碗的狗仔粉，美味無窮，所有材料的香味也能嚐到，事頭婆女兒推介加辣菜脯，更增鮮味。很多時吃到的狗仔粉很軟，但這裏的軟厚適中，令人回味！</p>
+<hr>
+<p><img src="Tsing-Yi-Night-Market-07.jpg" alt=""></p>
+<h5 id="豬肉蛋漢堡"><a href="#豬肉蛋漢堡" class="headerlink" title="豬肉蛋漢堡"></a>豬肉蛋漢堡</h5><p>一年去到「青衣夜市」，都會見到一檔大排長龍，聽說是食豬肉蛋漢堡。</p>
+<p>初初聽到這個名字，還以為是美式快餐店的食物！不過這個小食我只是在青衣真君、天后誕見過，其實是煎蛋+豬肉+粉漿混合而成，形狀有點像漢堡的小食。</p>
+<p><img src="Tsing-Yi-Night-Market-08.jpg" alt=""></p>
+<p>其中一個人是住在青衣的鶴佬人，每年都在青衣擺兩次檔，間中會在荃灣路德圍擺檔。</p>
+<p>跟他說起社會的問題，他說後生仔去甚麼七一遊行，一定背後有收錢，如果唔係點會日曬雨淋都去。又說藍黃絲其實只是兩邊鬥多錢！</p>
+<p>他又說在北區走水貨的人有八成係福建、鶴佬、潮州人，叫我去到上水講潮州話就溝通到！</p>
+<p>說回這個小食，灑了椒鹽的豬肉蛋漢堡味道可口，略嫌油膩，不過一年食一次無所謂啦！</p>
+<hr>
+<p><img src="Tsing-Yi-Night-Market-09.jpg" alt=""></p>
+<h5 id="雞屎藤茶果-清明仔"><a href="#雞屎藤茶果-清明仔" class="headerlink" title="雞屎藤茶果 / 清明仔"></a>雞屎藤茶果 / 清明仔</h5><p>每逢清明節，大埔都會有特別多「清明仔」賣，是用雞屎藤或艾草造成一粒粒細件的茶果，大件的好像不會叫清明仔。在夜市球場入口附近，有一個婆婆在賣雞屎藤，她說她在梅窩一間學校上班，到春天就會在那裏摘雞屎藤，製造茶果。</p>
+<p>買了兩個茶果吃，味道清新，不會很甜，重點是茶果的粉團很軟滑！平時在大埔買了茶果都是很硬又不滑！試完還幫襯了多幾個，拿回家給家人吃呢！</p>
+<hr>
+<p><img src="Tsing-Yi-Night-Market-10.jpg" alt=""></p>
+<h5 id="Churro"><a href="#Churro" class="headerlink" title="Churro"></a>Churro</h5><p>這家Churro是去年才出現的，一心想以為有西班牙的Churro吃，店主說Churro近年在韓國興起，和西班牙的有點不同。經過油炸的甜麵條搽上朱古力醬、士多啤梨醬等，再加上椰絲，女生們應該很喜歡吃！我就最喜歡搽上焦糖的Churro了！</p>
+<p><img src="Tsing-Yi-Night-Market-11.jpg" alt=""></p>
+<hr>
+<p>以上的介紹、小食都是去年的青衣真君誕遇到的，不知道今年又有沒有呢？</p>
+<p><img src="Tsing-Yi-Night-Market-12.png" alt=""></p>
+]]></content:encoded>
+      
+      <comments>http://fatdom.com/2016/04/15/Tsing-Yi-Night-Market/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
