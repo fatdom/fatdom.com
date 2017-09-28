@@ -251,3 +251,7 @@ hr {
 .alert {
     margin-bottom: 0 !important;
 }
+
+h5 {
+    font-weight: bold;
+}
