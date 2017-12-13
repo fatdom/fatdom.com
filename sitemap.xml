@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://fatdom.com/about/index.html</loc>
+    
+    <lastmod>2017-12-13T04:00:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://fatdom.com/2017/12/04/2016-Eastern-Japan-13/</loc>
     
     <lastmod>2017-12-04T15:49:08.000Z</lastmod>
@@ -117,13 +124,6 @@
     <loc>http://fatdom.com/2016/12/06/Translation-Nishikawa-Interview/</loc>
     
     <lastmod>2017-08-26T13:26:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://fatdom.com/about/index.html</loc>
-    
-    <lastmod>2017-08-26T03:00:00.000Z</lastmod>
     
   </url>
   
