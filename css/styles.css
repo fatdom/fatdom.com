@@ -255,3 +255,14 @@ hr {
 h5 {
     font-weight: bold;
 }
+
+.archive-month {
+    font-weight: bold; 
+    margin-top: 2em; 
+    margin-bottom: 0.5em;
+}
+
+.archive-item {
+    line-height: 1.5em; 
+    margin-left: 1em;
+}
