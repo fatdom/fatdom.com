@@ -117,6 +117,10 @@
         </li>
       
         <li class="nav-item">
+          <a class="nav-link" href="https://vsco.co/dominicleung12/">VSCO</a>
+        </li>
+      
+        <li class="nav-item">
           <a class="nav-link" href="https://youtube.com/c/dominicleung1230/">YouTube</a>
         </li>
       
@@ -163,14 +167,14 @@
 
 </div>
 <div class="col-lg-8 col-12 pt-lg-3 mb-4 pl-lg-5 px-lg-0 px-4 portfolio-content">
-  <p>I was not very busy at work yesterday, so I decided to start getting familiar with Leaflet.js. I have always wanted to do something with maps, particularly for Hong Kong. As my first experience with Leaflet, I think I would make a <a href="https://fatdom.github.io/Tai-Po-Population" target="_blank" rel="external">simple map showing population in different neighbourhoods in Tai Po district</a>, where I live in.</p>
-<p>There are apparently many map tiles available for Leaflet, I found <a href="http://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank" rel="external">Leaflet-Providers</a> which is amazing, I was thinking between OpenStreetMaps BlackAndWhite and Stamen TonerLite, and finally settled with the former.</p>
+  <p>I was not very busy at work yesterday, so I decided to start getting familiar with Leaflet.js. I have always wanted to do something with maps, particularly for Hong Kong. As my first experience with Leaflet, I think I would make a <a href="https://fatdom.github.io/Tai-Po-Population" target="_blank" rel="noopener">simple map showing population in different neighbourhoods in Tai Po district</a>, where I live in.</p>
+<p>There are apparently many map tiles available for Leaflet, I found <a href="http://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank" rel="noopener">Leaflet-Providers</a> which is amazing, I was thinking between OpenStreetMaps BlackAndWhite and Stamen TonerLite, and finally settled with the former.</p>
 <p>Upon initializing the map object, it needs a centre point. I found it a lot easier to add a onClick handler to log the latitude and longitude, than to look it up in Google Maps.</p>
 <script src="//gist.github.com/6552717c07d943b69e0e9450a435ffbb.js?file=Leaflet-Find-Coordinate.js"></script>
-<p>The next thing I need is the <a href="http://geojson.org/" target="_blank" rel="external">GeoJSON</a> of Hong Kong’s 431 neighbourhoods. It turns out <a href="someone has already done it">someone has already done it</a>, 2blam, you have my deepest respect and appreciation! For the current project, I only need the definition for neighbourhoods under Tai Po District and add the number of population as an additional property of each neighbourhood. Figures are based on <a href="http://www.census2011.gov.hk/en/district-profiles/tai-po.html" target="_blank" rel="external">2011 Population Census</a>.</p>
-<p>The rest of it is just following the <a href="http://leafletjs.com/examples/choropleth/" target="_blank" rel="external">example</a> provided by Leaflet, I just tweaked the styles a bit…</p>
+<p>The next thing I need is the <a href="http://geojson.org/" target="_blank" rel="noopener">GeoJSON</a> of Hong Kong’s 431 neighbourhoods. It turns out <a href="someone has already done it">someone has already done it</a>, 2blam, you have my deepest respect and appreciation! For the current project, I only need the definition for neighbourhoods under Tai Po District and add the number of population as an additional property of each neighbourhood. Figures are based on <a href="http://www.census2011.gov.hk/en/district-profiles/tai-po.html" target="_blank" rel="noopener">2011 Population Census</a>.</p>
+<p>The rest of it is just following the <a href="http://leafletjs.com/examples/choropleth/" target="_blank" rel="noopener">example</a> provided by Leaflet, I just tweaked the styles a bit…</p>
 <p>I would like to think this code and the GeoJSON (Thank you!) will serve as a basis. Showing data geographically, and specifically for Hong Kong is something I have always wanted to do.</p>
-<p>It took me a couple of hours to maneuver around the example, the code and the GeoJSON, you can check it out on <a href="https://github.com/fatdom/Tai-Po-Population" target="_blank" rel="external">my GitHub</a>.</p>
+<p>It took me a couple of hours to maneuver around the example, the code and the GeoJSON, you can check it out on <a href="https://github.com/fatdom/Tai-Po-Population" target="_blank" rel="noopener">my GitHub</a>.</p>
 
 
     
