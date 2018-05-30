@@ -8,8 +8,30 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 26 Apr 2018 11:53:16 GMT</pubDate>
+    <pubDate>Wed, 30 May 2018 15:26:51 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2018 青衣天后誕 - 小小的圖像紀錄</title>
+      <link>http://fatdom.com/2018/05/30/2018-tsing-yi-tin-hau/</link>
+      <guid>http://fatdom.com/2018/05/30/2018-tsing-yi-tin-hau/</guid>
+      <pubDate>Wed, 30 May 2018 15:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;今年還是例行地去了青衣戲棚，平日下午去，貪個場少啲人，可以有多啲時間專注影相。&lt;/p&gt;
+&lt;p&gt;當然我都有食野，不過看到價錢真係敬而遠之，最後食咗臭豆腐和羊肉串，羊肉串的份量少得可憐，好似乞食都多過佢。&lt;/p&gt;
+&lt;p&gt;唔知喺度開檔要添幾多香油錢呢？&lt;/p&gt;
+&lt;p&gt;&lt;img s
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>今年還是例行地去了青衣戲棚，平日下午去，貪個場少啲人，可以有多啲時間專注影相。</p><p>當然我都有食野，不過看到價錢真係敬而遠之，最後食咗臭豆腐和羊肉串，羊肉串的份量少得可憐，好似乞食都多過佢。</p><p>唔知喺度開檔要添幾多香油錢呢？</p><p><img src="120-V001-145-004.jpg" alt=""></p><p><img src="120-V001-145-006.jpg" alt=""></p><p><img src="120-V001-145-007.jpg" alt=""></p><p><img src="120-V001-145-008.jpg" alt=""></p><p><img src="120-V001-146-002.jpg" alt=""></p><p><img src="120-V001-146-004.jpg" alt=""></p><p><img src="120-V001-146-007.jpg" alt=""></p><p><img src="120-V001-146-008.jpg" alt=""></p>]]></content:encoded>
+      
+      <comments>http://fatdom.com/2018/05/30/2018-tsing-yi-tin-hau/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>OASIS是我們想要的世界嗎？ - Ready Player One 小雜燴</title>
@@ -399,25 +421,6 @@
       <content:encoded><![CDATA[<p>每年農曆正月廿六，是觀音開庫的日子，在香港不同地區供奉觀音的廟宇也會舉辦觀音借庫，大部分也是在年廿五夜晚十一點開始，這一晚各廟宇都大排長龍。不論是打工仔或老闆的信眾，他們相信觀音借庫可以旺財，打開未來一年的「水路」。</p><p>去年的年廿五晚上，我在屋企附近的大埔舊墟天后宮拍攝了觀音開庫的情況。天后宮的背面是一間吃 Fish &amp; Chips 的酒吧，相映成趣。</p><p><img src="Gwun-Yam-01.jpg" alt=""></p><p>在天后宮旁的水月宮，是供奉觀音的地方，大量信眾過十一點後便開始進入水月宮。年頭借過庫後，無論你財運亨通與否，記得年尾要回到廟宇還庫！</p><p>今年年廿六是下星期三2月22日，大部份廟宇也會在早一晚21日的十一點開庫，如果不想排隊迫人，可以在22日白天到廟宇。</p><p><img src="Gwun-Yam-02.jpg" alt=""></p><p><img src="Gwun-Yam-05.jpg" alt=""></p><p>至於那裏那一個廟宇可以借庫，借庫流程等等，可以參考 <a href="http://timable.com/en/event/1383736" target="_blank" rel="noopener">Timable 的整理</a>。最後祝各位鷄年財運滾滾來！</p><p><img src="Gwun-Yam-04.jpg" alt=""></p>]]></content:encoded>
       
       <comments>http://fatdom.com/2017/02/17/Gwun-Yam-Offering/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>First try with Leaflet.js</title>
-      <link>http://fatdom.com/2017/01/24/First-try-with-Leaflet-js/</link>
-      <guid>http://fatdom.com/2017/01/24/First-try-with-Leaflet-js/</guid>
-      <pubDate>Tue, 24 Jan 2017 04:00:00 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;I was not very busy at work yesterday, so I decided to start getting familiar with Leaflet.js. I have always wanted to do something with 
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>I was not very busy at work yesterday, so I decided to start getting familiar with Leaflet.js. I have always wanted to do something with maps, particularly for Hong Kong. As my first experience with Leaflet, I think I would make a <a href="https://fatdom.github.io/Tai-Po-Population" target="_blank" rel="noopener">simple map showing population in different neighbourhoods in Tai Po district</a>, where I live in.</p><p>There are apparently many map tiles available for Leaflet, I found <a href="http://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank" rel="noopener">Leaflet-Providers</a> which is amazing, I was thinking between OpenStreetMaps BlackAndWhite and Stamen TonerLite, and finally settled with the former.</p><p>Upon initializing the map object, it needs a centre point. I found it a lot easier to add a onClick handler to log the latitude and longitude, than to look it up in Google Maps.</p><script src="//gist.github.com/6552717c07d943b69e0e9450a435ffbb.js?file=Leaflet-Find-Coordinate.js"></script><p>The next thing I need is the <a href="http://geojson.org/" target="_blank" rel="noopener">GeoJSON</a> of Hong Kong’s 431 neighbourhoods. It turns out <a href="someone has already done it">someone has already done it</a>, 2blam, you have my deepest respect and appreciation! For the current project, I only need the definition for neighbourhoods under Tai Po District and add the number of population as an additional property of each neighbourhood. Figures are based on <a href="http://www.census2011.gov.hk/en/district-profiles/tai-po.html" target="_blank" rel="noopener">2011 Population Census</a>.</p><p>The rest of it is just following the <a href="http://leafletjs.com/examples/choropleth/" target="_blank" rel="noopener">example</a> provided by Leaflet, I just tweaked the styles a bit…</p><p>I would like to think this code and the GeoJSON (Thank you!) will serve as a basis. Showing data geographically, and specifically for Hong Kong is something I have always wanted to do.</p><p>It took me a couple of hours to maneuver around the example, the code and the GeoJSON, you can check it out on <a href="https://github.com/fatdom/Tai-Po-Population" target="_blank" rel="noopener">my GitHub</a>.</p>]]></content:encoded>
-      
-      <comments>http://fatdom.com/2017/01/24/First-try-with-Leaflet-js/#disqus_thread</comments>
     </item>
     
   </channel>
