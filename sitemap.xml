@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://fatdom.com/about/index.html</loc>
+    
+    <lastmod>2020-04-17T04:00:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://fatdom.com/2020/03/19/Yim-Tin-Tsai/</loc>
     
     <lastmod>2020-03-19T09:34:31.162Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>http://fatdom.com/2017/12/19/2018-goals/</loc>
     
     <lastmod>2017-12-18T23:55:30.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://fatdom.com/about/index.html</loc>
-    
-    <lastmod>2017-12-13T04:00:00.000Z</lastmod>
     
   </url>
   
