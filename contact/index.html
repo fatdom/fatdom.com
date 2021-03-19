@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <!-- Head tag -->
-  <head><meta name="generator" content="Hexo 3.9.0">
+  <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,7 +15,7 @@
 
   <!--Description-->
   
-      <meta name="description" content>
+      <meta name="description" content="Send">
   
 
   <!--Author-->
@@ -28,7 +28,9 @@
   <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans:300,800" rel="stylesheet">
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/css/styles.css">
+  
+<link rel="stylesheet" href="/css/styles.css">
+
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -55,7 +57,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
-    <script src="/form.js"></script>
+    
+<script src="/form.js"></script>
+
+<meta name="generator" content="Hexo 5.3.0"><link rel="alternate" href="/rss2.xml" title="Dominic Leung" type="application/rss+xml">
 </head>
 
 
@@ -79,11 +84,11 @@
         </li>
       
         <li class="nav-item">
-          <a class="nav-link" href="https://instagram.com/analoguegeek/">Instagram</a>
+          <a class="nav-link" target="_blank" rel="noopener" href="https://instagram.com/analoguegeek/">Instagram</a>
         </li>
       
         <li class="nav-item">
-          <a class="nav-link" href="https://www.youtube.com/channel/UCgks3YzFirqtklhVpBY0hZw">YouTube</a>
+          <a class="nav-link" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCgks3YzFirqtklhVpBY0hZw">YouTube</a>
         </li>
       
     </ul>
@@ -95,7 +100,12 @@
   		<div class="row">
   			
 <div class="col-12 pt-lg-3 mb-4 px-4 portfolio-content">
-  <form id="contact-form"><input type="text" name="Name" placeholder="Name" required><br>    <input type="email" name="_replyto" placeholder="Email" required><br>    <textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea><br>    <input class="submit" type="submit" value="Send"><br>    <!-- CONFIG --><input type="text" name="_gotcha" style="display:none"><input type="hidden" name="_subject" value="Submitted Form from fatdom.com"><!-- /CONFIG --></form>
+  <form action="https://formspree.io/f/mwkaeeba" method="POST">
+  <input type="text" name="Name" placeholder="Name" required />
+  <input type="email" name="_replyto" placeholder="Email" required />
+  <textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
+  <button type="submit">Send</button>
+</form>
 </div>
 
 
@@ -105,7 +115,7 @@
         
         <hr>
         <div class="row container-fluid" id="footer">
-            <div class="col-auto mr-auto">This site is powered by <a href="https://hexo.io/">Hexo</a> and <a href="https://github.com/sharvaridesai/hexo-theme-edinburgh">Edinburgh theme</a>.</div>
+            <div class="col-auto mr-auto">This site is powered by <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a> and <a target="_blank" rel="noopener" href="https://github.com/sharvaridesai/hexo-theme-edinburgh">Edinburgh theme</a>.</div>
             <div class="col-auto">
                 &copy; 2017 - 2021 fatdom.com
         </div>
