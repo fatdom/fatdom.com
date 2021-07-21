@@ -72,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://fatdom.com/2018/04/17/bedroom/</loc>
-    
-    <lastmod>2018-04-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://fatdom.com/2017/12/19/2018-goals/</loc>
     
     <lastmod>2017-12-18</lastmod>
@@ -226,21 +219,7 @@
   </url>
   
   <url>
-    <loc>http://fatdom.com/2016/07/20/First-two-weeks-without-mobile-phone/</loc>
-    
-    <lastmod>2017-08-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://fatdom.com/2017/01/24/First-try-with-Leaflet-js/</loc>
-    
-    <lastmod>2017-08-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://fatdom.com/2017/03/13/First-Roll-of-120-Cinestill-800T/</loc>
     
     <lastmod>2017-08-19</lastmod>
     
@@ -249,7 +228,7 @@
 
   <url>
     <loc>http://fatdom.com/</loc>
-    <lastmod>2021-07-18</lastmod>
+    <lastmod>2021-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -259,49 +238,42 @@
   
   <url>
     <loc>http://fatdom.com/categories/travel/</loc>
-    <lastmod>2021-07-18</lastmod>
+    <lastmod>2021-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://fatdom.com/categories/festival/</loc>
-    <lastmod>2021-07-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://fatdom.com/categories/photography/</loc>
-    <lastmod>2021-07-18</lastmod>
+    <lastmod>2021-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://fatdom.com/categories/code/</loc>
-    <lastmod>2021-07-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://fatdom.com/categories/life/</loc>
-    <lastmod>2021-07-18</lastmod>
+    <lastmod>2021-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://fatdom.com/categories/memoir/</loc>
-    <lastmod>2021-07-18</lastmod>
+    <lastmod>2021-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://fatdom.com/categories/life/</loc>
+    <lastmod>2021-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://fatdom.com/categories/translation/</loc>
-    <lastmod>2021-07-18</lastmod>
+    <lastmod>2021-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
